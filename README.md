@@ -7,6 +7,6 @@
  
 # Examples
 
- ![Sources of relationship support](https://github.com/ryanboyd/Public-Domain-Images/blob/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Figure%201.png)
+ ![Sources of relationship support](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/sources%20of%20relationship%20help.jpg)
  
-  ![Words in a psychosocial context](https://github.com/ryanboyd/Public-Domain-Images/blob/main/Words%20in%20Psychosocial%20Context/Words%20in%20Psychosocial%20Context%20v1.png)
+  ![Words in a psychosocial context](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/Words%20in%20Psychosocial%20Context%20v1.jpg)
