@@ -10,3 +10,5 @@
  ![Sources of relationship support](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/sources%20of%20relationship%20help.jpg)
  
   ![Words in a psychosocial context](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/Words%20in%20Psychosocial%20Context%20v1.jpg)
+
+  ![Interactionist NLP](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/interactionist-nlp.jpg)
