@@ -11,7 +11,7 @@
 
 <img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Figure%201.png" width="600"/>
 
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Combined%20Plots%20Labels" width="600"/>
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Combined%20Plots%20Labels.png" width="600"/>
 
 ## Boyd, R. L., & Schwartz, H. A. (2021). Natural language analysis and the psychology of verbal behavior: The past, present, and future states of the field. Journal of Language and Social Psychology, 40(1), 21–41. https://doi.org/10.1177/0261927X20967028
 
