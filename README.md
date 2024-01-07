@@ -9,7 +9,7 @@
 
 ## Entwistle, C., Horn, A. B., Meier, T., & Boyd, R. L. (2021). Dirty laundry: The nature and substance of seeking relationship help from strangers online. Journal of Social and Personal Relationships, 38(12), 3472–3496. https://doi.org/10.1177/02654075211046635
 
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Figure%201.png" width="600" background-color="white"/>
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Figure%201.png" width="600" />
 
 <img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Combined%20Plots%20Labels.png" width="600"/>
 
