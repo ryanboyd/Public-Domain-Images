@@ -5,10 +5,17 @@
  
  Depending on what formats I make the figures/images in, I'll try to share them at least in high-res .tiff format and .png. Sometimes, I'll toss in an SVG if I have that handy as well. No promises!
  
-# Examples
+# Images
 
- ![Sources of relationship support](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/sources%20of%20relationship%20help.jpg)
- 
-  ![Words in a psychosocial context](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/Words%20in%20Psychosocial%20Context%20v1.jpg)
+## Entwistle, C., Horn, A. B., Meier, T., & Boyd, R. L. (2021). Dirty laundry: The nature and substance of seeking relationship help from strangers online. Journal of Social and Personal Relationships, 38(12), 3472–3496. https://doi.org/10.1177/02654075211046635
 
-  ![Interactionist NLP](https://github.com/ryanboyd/Public-Domain-Images/blob/main/preview%20versions%20for%20readme/interactionist-nlp.jpg)
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Figure%201.tiff" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Combined%20Plots%20Labels" width="600"/>
+
+## Boyd, R. L., & Schwartz, H. A. (2021). Natural language analysis and the psychology of verbal behavior: The past, present, and future states of the field. Journal of Language and Social Psychology, 40(1), 21–41. https://doi.org/10.1177/0261927X20967028
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Words%20in%20Psychosocial%20Context/Words%20in%20Psychosocial%20Context%20v1.tiff" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Words%20in%20Psychosocial%20Context/Words%20in%20Psychosocial%20Context%20-%20nocolor.tiff" width="600"/>
+
