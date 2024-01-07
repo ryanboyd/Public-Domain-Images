@@ -19,3 +19,11 @@
 
 <img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Words%20in%20Psychosocial%20Context/Words%20in%20Psychosocial%20Context%20-%20nocolor.png" width="600"/>
 
+## Boyd, R. L., & Markowitz (in press). Verbal behavior and the future of social science. American Psychologist.
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%202.png" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%203.png" width="600"/>
+
