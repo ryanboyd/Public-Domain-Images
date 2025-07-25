@@ -7,6 +7,22 @@
  
 # Images
 
+## Boyd, R. L. & Markowitz, D. M. (under review). Artificial Intelligence and the Psychology of Human Connection.
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+
+## Boyd, R. L., & Markowitz, D. M. (2025). Verbal behavior and the future of social science. American Psychologist, 80(3), 411–433. https://doi.org/10.1037/amp0001319
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%202.png" width="600"/>
+
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%203.png" width="600"/>
+
 ## Entwistle, C., Horn, A. B., Meier, T., & Boyd, R. L. (2021). Dirty laundry: The nature and substance of seeking relationship help from strangers online. Journal of Social and Personal Relationships, 38(12), 3472–3496. https://doi.org/10.1177/02654075211046635
 
 <img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Relationship%20Support%20Sources%20-%20Personal%20vs%20Impersonal/Figure%201.png" width="600" />
@@ -18,12 +34,3 @@
 <img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Words%20in%20Psychosocial%20Context/Words%20in%20Psychosocial%20Context%20v1.png" width="600"/>
 
 <img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Words%20in%20Psychosocial%20Context/Words%20in%20Psychosocial%20Context%20-%20nocolor.png" width="600"/>
-
-## Boyd, R. L., & Markowitz (in press). Verbal behavior and the future of social science. American Psychologist.
-
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
-
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%202.png" width="600"/>
-
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%203.png" width="600"/>
-
