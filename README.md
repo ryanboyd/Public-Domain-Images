@@ -3,7 +3,7 @@
  Sometimes, I make images/figures for papers. These days, I try to put them into the public domain so that anyone can use them if they so desire.
  Any of the images that you find here can be used/redistributed in any way that you like. You don't need to ask for permission, you don't need to include credit for their reuse (although credit is always nice!) — they're just out there for anyone to use however they want.
  
- Depending on what formats I make the figures/images in, I'll try to share them at least in high-res .png format and .png. Sometimes, I'll toss in an SVG if I have that handy as well. No promises!
+ Depending on what formats I make the figures/images in, I'll try to share them at least in high-res TIFF format and/or PNG. Sometimes, I'll toss in an SVG if I have that handy as well. No promises!
  
 # Images
 
