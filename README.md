@@ -9,11 +9,11 @@
 
 ## Boyd, R. L. & Markowitz, D. M. (under review). Artificial Intelligence and the Psychology of Human Connection.
 
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/MIRA%20Model/Figure%201%20-%20The%20MIRA%20Model.png" width="600"/>
 
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/MIRA%20Model/Figure%202%20-%20Dual%20Roles%20of%20AI.png" width="600"/>
 
-<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/Verbal%20Behavior%20and%20the%20Future%20of%20Social%20Science/Figure%201.png" width="600"/>
+<img src="https://github.com/ryanboyd/Public-Domain-Images/raw/main/MIRA%20Model/Figure%204%20-%20Relational%20Enhancement%20vs%20Substitution.png" width="600"/>
 
 ## Boyd, R. L., & Markowitz, D. M. (2025). Verbal behavior and the future of social science. American Psychologist, 80(3), 411–433. https://doi.org/10.1037/amp0001319
 
